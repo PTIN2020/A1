@@ -4,7 +4,7 @@
 - Enllaç *Demo Sprint2.txt* del vídeo de la presentació
 - El fitxer SEGURETAT-SprintV2.pdf conté les versions de la capa de seguretat per cada punt vital del projecte.
 - Plantilla power point de la presentació
-- Códis del prototip del cotxe
+- Codis del prototip del cotxe
 
 **Indicacions:**
 - Quan s'acaba el sprint se generará una nova branch nombrada com el sprint que finalitzi amb l'entrega
