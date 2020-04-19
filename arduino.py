@@ -93,13 +93,13 @@ if __name__== '__main__':
 				stop()
 			elif line=='Linia blanca esquerre':
 				print(line)
-				right()
+				left()
 				speed = 8 * 11
 				pwm_left.start(speed)
 				pwm_right.start(speed)
 			elif line=='Linia blanca dreta':
 				print(line)
-				left()
+				right()
 				speed = 8 * 11
 				pwm_left.start(speed)
 				pwm_right.start(speed)
