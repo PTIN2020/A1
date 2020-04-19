@@ -1,11 +1,11 @@
 # A1 - Zona de Entregas del sprint actual
 **Contenido:**
-- ```PTIN-VIA-Sprint_2-Documentación.pdf```: Documento general del proyecto de la terminal 1
-- El resto de los diferentes pdf son las versiones de la capa de seguridad por cada punto vital del proyecto.
-- Enlace *Demo Sprint2.txt* del vídeo de la presentación
-- Plantilla power point de la presentación
-- Códigos del prototipo del coche
+- ```PTIN-VIA-Sprint_2-Documentación.pdf```: Document general del projecte de la terminal 1
+- Enllaç *Demo Sprint2.txt* del vídeo de la presentació
+- El fitxer SEGURETAT-SprintV2.pdf conté les versions de la capa de seguretat per cada punt vital del projecte.
+- Plantilla power point de la presentació
+- Códis del prototip del cotxe
 
-**Indicaciones:**
-- Cuando se acaba el sprint se generará una nueva branch nombrada como el sprint que finalizó con la entrega
-- Al crear una nueva branch se tiene que vaciar el master para el próximo sprint
+**Indicacions:**
+- Quan s'acaba el sprint se generará una nova branch nombrada com el sprint que finalitzi amb l'entrega
+- Al crear una nova branch s'ha de buidar el master per el pròxim sprint
