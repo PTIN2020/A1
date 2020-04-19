@@ -4,7 +4,7 @@
 - El resto de los diferentes pdf son las versiones de la capa de seguridad por cada punto vital del proyecto.
 - Vídeo de la presentación
 - Plantilla power point de la presentación
-- Código del prototipo del coche
+- Códigos del prototipo del coche
 
 **Indicaciones:**
 - Cuando se acaba el sprint se generará una nueva branch nombrada como el sprint que finalizó con la entrega
