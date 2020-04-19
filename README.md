@@ -1,5 +1,5 @@
 # A1 - Zona d'Entregues del sprint actual
-**Contenido:**
+**Contingut:**
 - ```PTIN-VIA-Sprint_2-Documentación.pdf```: Document general del projecte de la terminal 1
 - Enllaç *Demo Sprint2.txt* del vídeo de la presentació
 - El fitxer SEGURETAT-SprintV2.pdf conté les versions de la capa de seguretat per cada punt vital del projecte.
