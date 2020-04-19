@@ -5,6 +5,7 @@
 - Vídeo de la presentación
 - Plantilla power point de la presentación
 - Código del prototipo del coche
+
 **Indicaciones:**
 - Cuando se acaba el sprint se generará una nueva branch nombrada como el sprint que finalizó con la entrega
 - Al crear una nueva branch se tiene que vaciar el master para el próximo sprint
