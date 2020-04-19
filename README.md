@@ -1,4 +1,4 @@
-# A1 - Zona de Entregas del sprint actual
+# A1 - Zona d'Entregues del sprint actual
 **Contenido:**
 - ```PTIN-VIA-Sprint_2-Documentación.pdf```: Document general del projecte de la terminal 1
 - Enllaç *Demo Sprint2.txt* del vídeo de la presentació
