@@ -1,7 +1,6 @@
 # A1 - Zona d'Entregues del sprint actual
 **Contingut:**
 - ```PTIN-VIA-Sprint_5-Documentación.pdf```: Document general del projecte de la terminal 1 - Pendiente!
-- Enllaç *Demo Sprint5.txt* del vídeo de la presentació - Pendiente!
 - El fitxer SEGURETAT-SprintV4.pdf conté les propostes de la capa de seguretat per cada punt vital del projecte.
 - Plantilla power point de la presentació
 - Codis del prototip del cotxe
